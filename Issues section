@@ -1,0 +1,1 @@
+ Issues section allows you to manage any undesired behavior of the system under test. You can either create new issues that come up during test execution, or link existing issues to a TestCase log.
